@@ -1,0 +1,5 @@
+Link para download do Git:https://git-scm.com/downloads
+O git Bash é um terminal extendido para otimizar o uso do Git.
+
+Link para download de Emoji:https://emojiterra.com/pt/
+Esse site possue várias referências de códigos de emoji para usar no Github.
